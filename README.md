@@ -1,7 +1,5 @@
 # Vim For Junior(Developer)
 
-Todos
-
 ## Movement
 
 vim movement (hjkl)
